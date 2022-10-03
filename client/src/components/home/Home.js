@@ -12,13 +12,13 @@ const Home = () => {
                 <button className="btn firstbtn1 w-100 py-5">Sales</button>
               </div>
               <div className="col-md-6 col-12">
-                <button className="btn firstbtn2 w-100 py-5">Admin</button>
+                <button className="btn firstbtn2 w-100 py-5">Order</button>
               </div>
               <div className="col-md-6 col-12">
-                <button className="btn firstbtn1 w-100 py-5">future1</button>
+                <button className="btn firstbtn1 w-100 py-5">Admin</button>
               </div>
               <div className="col-md-6 col-12">
-                <button className="btn firstbtn2 w-100 py-5">future2</button>
+                <button className="btn firstbtn2 w-100 py-5">Staff</button>
               </div>
             </div>
           </div>
