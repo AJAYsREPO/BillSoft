@@ -6,7 +6,7 @@ const Home = () => {
     <>
       <div className="container mt-5">
         <div className="row">
-          <div className="col-md-6 col-12 offset-md-3 ">
+          <div className="col-lg-4 col-sm-6 col-6 offset-lg-4 offset-sm-3 offset-3 ">
             <div className="row gy-3">
               <div className="col-md-6 col-12">
                 <button className="btn firstbtn1 w-100 py-5">Sales</button>
